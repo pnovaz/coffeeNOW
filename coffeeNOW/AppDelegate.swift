@@ -8,6 +8,8 @@
 
 import UIKit
 import CoreData
+import Parse
+import Bolts
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -17,6 +19,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        //Initialize Parse.
+        let configuration = ParseClientConfiguration {
+            
+            $0.applicationId = "KZuwglClgAPjp9oHQfyy1J9bIJY60CgzF33d2mZN"
+            
+            $0.clientKey = "NngLLDS4KUdToEdxRHelJmGIuaARC8p6oEmY1Eg6"
+            
+            $0.server = "https://parseapi.back4app.com"
+        }
+        
+        Parse.initialize(with: configuration)
+        
         return true
     }
 
