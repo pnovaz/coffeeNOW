@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7481FD823E4738D1480AA43631FA156C3A5BDCF5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3AFCFB9A05F7EA437D658480AC426E4A2260D8FC" : 9223372036854775807,
+    "7481FD823E4738D1480AA43631FA156C3A5BDCF5" : 9223372036854775807,
+    "25800ABB8BD505D880CD5ECED5ACF60DB0D69565" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7B4AF915-6B26-424C-91EA-5A621B16CA04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3AFCFB9A05F7EA437D658480AC426E4A2260D8FC" : "",
+    "7481FD823E4738D1480AA43631FA156C3A5BDCF5" : "coffeeNOW\/",
+    "25800ABB8BD505D880CD5ECED5ACF60DB0D69565" : "coffeeNOW\/coffeeNOW\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "coffeeNOW",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "coffeeNOW.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pnovaz\/coffeeNOW.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25800ABB8BD505D880CD5ECED5ACF60DB0D69565"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pnovaz\/coffeeNOW.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AFCFB9A05F7EA437D658480AC426E4A2260D8FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pnovaz\/coffeeNOW.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7481FD823E4738D1480AA43631FA156C3A5BDCF5"
+    }
+  ]
+}
